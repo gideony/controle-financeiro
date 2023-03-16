@@ -15,7 +15,7 @@
 
 
 ## Deploy 🔗
-https://controle-financeiro-olive.vercel.app/
+https://controle-financeiro.bohr.io
 
 
 ## Imagens 📸
